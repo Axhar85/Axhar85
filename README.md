@@ -20,11 +20,11 @@
 
   - [MyBackpacking](https://github.com/Axhar85/My-Backpacking): It was first project during bootcamp. We were given a task to create a website using HTML and CSS mainly, We were team of 2 pesrons. It was in the start though we have to work in HTML and CSS but we also use Javascript which we just start learning at the time of project. 
 
-  [Smart Mars Watch](https://github.com/manuel-marque/hackathon-smars-watch): We took part in Hackathon. We have to create an applicatopn in 24hrs for an alone aastronaut who left alone at Mars. We came up an idea to create a smart watch which helps him to survive in harsh envoirment of mars and help him contact other aliens or planet. It was a great experiance working underpressure.  
+  - [Smart Mars Watch](https://github.com/manuel-marque/hackathon-smars-watch): We took part in Hackathon. We have to create an applicatopn in 24hrs for an alone aastronaut who left alone at Mars. We came up an idea to create a smart watch which helps him to survive in harsh envoirment of mars and help him contact other aliens or planet. It was a great experiance working underpressure.  
 
   - more to come...
 
-- 🔧 A🔧 After learning the fundaments of web development on my own, I attended a "Web developer" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
+-🔧 After learning the fundaments of web development on my own, I attended a "Web developer" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
 
 - 📫 How to reach me **azhararshad_ntu@yahoo.com**
 - :gem: I'm also on [Linkedin](https://www.linkedin.com/in/azhar-arshad/)
