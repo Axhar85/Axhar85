@@ -1,4 +1,4 @@
-                                                                      ### Hi there 👋 Azhar
+                                                            ### Hi there 👋 Azhar
 
 A passionate Web Developer, photographer, and lifelong learner
 javascript react typescript html css sql mongo redux firebase gatsby
