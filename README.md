@@ -9,7 +9,6 @@
 <img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
-<img src="https://img.icons8.com/bicycle" width="40" height="40" alt='bicycle'/>
 </p>
 <p align="center">
  <img src="https://www.codewars.com/users/Axhar85/badges/large" alt='codewars'/>
