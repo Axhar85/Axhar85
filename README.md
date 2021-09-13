@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Azhar</h1>
-<h3 align="center">A passionate Web Developer, Business Developer, photographer and lifelong learner</h3>
+<h3 align="center">A 🔥 Software Developer and lifelong learner,  grinding hard to make something cool</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
 <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
