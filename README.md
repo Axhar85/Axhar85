@@ -12,7 +12,11 @@
 </p>
 <p align="center">
  📧 azhararshad_ntu@yahoo.com
+ </p>
+ <p align="center">
  🎨 Portfolio: https://axharfolio.live
+ </p>
+ <p align="center">
  💼 LinkedIn: https://www.linkedin.com/in/azhar-arshad/
  </p>
 <p align="center">
