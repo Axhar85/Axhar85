@@ -11,6 +11,11 @@
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
 </p>
 <p align="center">
+ 📧 azhararshad_ntu@yahoo.com
+ 🎨 Portfolio: https://axharfolio.live
+ 💼 LinkedIn: https://www.linkedin.com/in/azhar-arshad/
+ </p>
+<p align="center">
  <img src="https://www.codewars.com/users/Axhar85/badges/large" alt='codewars'/>
  <p align="left">
 
