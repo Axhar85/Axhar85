@@ -2,11 +2,13 @@
 <h3 align="center">A 🔥 Software Developer and lifelong learner,  grinding hard to make something cool</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
+ <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt='typescript'/>
 <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt='node'/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongodb'/>
 <img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40" alt='redux'/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
 </p>
