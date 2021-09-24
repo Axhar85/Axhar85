@@ -36,7 +36,7 @@
 
   - more to come...
 
--🔧 After learning the fundaments of web development on my own, I attended a "Web developer" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
+-🔧 I attended a "Web developer" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion. And I am still learning and exploring more and more everyday. 
 
 - 📫 How to reach me **azhararshad_ntu@yahoo.com**
 - :gem: I'm also on [Linkedin](https://www.linkedin.com/in/azhar-arshad/)
