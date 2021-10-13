@@ -50,6 +50,6 @@
 <a href="https://www.linkedin.com/in/azhar-arshad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/azhar-arshad/" height="20" width="20" /></a>
 </p>
 ![](https://yhype.me/github/accounts/axhar85)
-![](https://hit.yhype.me/github/axhar85/axhar85)
+![](https://hit.yhype.me/github/profile?user_id=67257963)
 
 
