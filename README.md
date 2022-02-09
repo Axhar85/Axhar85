@@ -40,7 +40,7 @@
 
   - more to come...
 
--🔧 I attended a "Web developer" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion with SQL and NoSQL databases. Also have experiance working with teams using Agile methoodlogy and Scrum. I am still learning and exploring more and more everyday. 
+-🔧 I joined a "Web developers" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion with SQL and NoSQL databases. Also have experiance working with teams using Agile methoodlogy and Scrum. I am still learning and exploring more and more everyday. 
 
 - 📫 How to reach me **azhararshad_ntu@yahoo.com**
 - :gem: I'm also on [Linkedin](https://www.linkedin.com/in/azhar-arshad/)
