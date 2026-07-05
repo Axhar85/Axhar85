@@ -1,60 +1,117 @@
-<h1 align="center">Hey there 👋, I'm Azhar</h1>
-<h3 align="center">A Software Developer and lifelong learner,  grinding hard to make something cool</h3>
+<h1 align="center">Hi, I'm Azhar Arshad</h1>
+<h3 align="center">Front-End / Full Stack Developer focused on React, TypeScript, Next.js and mobile-first product experiences</h3>
+
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
- <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt='typescript'/>
-<img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
- <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40" height="40" alt='vue'/>
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" height="40" alt='angular'/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt='node'/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongodb'/>
-<img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
- <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40" alt='redux'/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
-<img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
- <img src="https://img.icons8.com/color/48/000000/gitlab.png" width="40" height="40" alt='gitlab'/>
- <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40" height="40" alt='jenkins'/>
- <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" height="40" alt='docker'/>
- <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/50/000000/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" width="40" height="40" alt='agile'/>
- <img src="https://img.icons8.com/dusk/50/000000/jira.png" width="40" height="40" alt='jira'/>
+  <a href="https://axharfolio.live">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/azhar-arshad/">LinkedIn</a> |
+  <a href="mailto:azhararshad_ntu@yahoo.com">Email</a> |
+  <a href="https://github.com/Axhar85">GitHub</a>
 </p>
+
 <p align="center">
- 📧 azhararshad_ntu@yahoo.com
- </p>
- <p align="center">
- 🎨 Portfolio: https://axharfolio.live
- </p>
- <p align="center">
- 💼 LinkedIn: https://www.linkedin.com/in/azhar-arshad/
- </p>
-<p align="center">
- <img src="https://www.codewars.com/users/Axhar85/badges/large" alt='codewars'/>
- <p align="left">
-
- - 👨‍💻 Some of my projects:
-  - [Redefine web app](https://github.com/Andreas-Kalicani/Redefine): We   built this Website in two months by a team of 4 from scratch, using agile methologies, as final project in a web developer bootcamp for a client located in Denmark.  It's built with React, [styled-components](https://styled-components.com/). The code was coded using NodeJS and Expressand, and MongoDB as a database. We follow Agile methodolgy and Jira for scrum to complete this project. 
- 
-  - [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): It was our second project dueing the bootcamp. A full stack application that calculates for people who is going to travel, the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/). The frontend was coded using React and styled-components and the backend with NodeJS and Express. It includes a Mysql database deployed in Heroku. We follow Agile methodolgy and Jira for scrum to complete this project.[Click here to see the project](https://sheltered-sierra-28595.herokuapp.com/)
-
-  - [MyBackpacking](https://github.com/Axhar85/My-Backpacking): It was first project during bootcamp. We were given a task to create a website using HTML and CSS mainly, We were team of 2 pesrons. It was in the start though we have to work in HTML and CSS but we also use Javascript which we just start learning at the time of project.[Click here to see the project](https://vigilant-hopper-0ae735.netlify.app/) 
-
-  - [Smart Mars Watch](https://github.com/manuel-marque/hackathon-smars-watch): We took part in Hackathon. We have to create an applicatopn in 24hrs for an alone aastronaut who left alone at Mars. We came up an idea to create a smart watch which helps him to survive in harsh envoirment of mars and help him contact other aliens or planet. It was a great experiance working underpressure.  
-
-  - more to come...
-
--🔧 I joined a "Web developers" Bootcamp at Wild Code School, that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion with SQL and NoSQL databases. Also have experiance working with teams using Agile methoodlogy and Scrum. I am still learning and exploring more and more everyday. 
-
-- 📫 How to reach me **azhararshad_ntu@yahoo.com**
-- :gem: For my LinkedIn [Linkedin](https://www.linkedin.com/in/azhar-arshad/)
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Axhar85&show_icons=true" alt="Axhar85" />
- </p>
- 
- <p align="center">
-<a href="https://www.linkedin.com/in/azhar-arshad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/azhar-arshad/" height="20" width="20" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-![](https://yhype.me/github/accounts/axhar85)
-![](https://hit.yhype.me/github/profile?user_id=67257963)
 
+---
 
+## About Me
+
+I am a Front-End / Full Stack Developer based in Madrid, Spain. I build mobile-first, responsive web applications with React, TypeScript, JavaScript, Next.js, Vue.js, Node.js and PHP/Blade.
+
+My recent work focuses on landing pages, subscription flows, API-driven user journeys, reusable frontend architecture, debugging production issues, performance improvements and practical delivery workflows with Git, npm, Docker and AWS-style environments.
+
+I enjoy building projects that connect real business needs with clean, maintainable frontend engineering.
+
+---
+
+## Featured Projects
+
+### CampaignForge
+
+[CampaignForge](https://github.com/Axhar85/CampaignForge) is a mobile-first landing page and telecom subscription campaign builder built with Next.js, React, TypeScript, Tailwind CSS and API routes.
+
+It allows teams to create, preview, manage and monitor digital campaigns with reusable UI components, validated editing flows, mock operator APIs, analytics and a realistic PIN subscription journey.
+
+**Highlights**
+
+- Dashboard with campaign visits, conversion rate, subscriptions and performance score.
+- Landing page builder with React Hook Form and Zod validation.
+- Mobile and desktop preview modes.
+- Telecom flow simulation: landing page, CTA, phone number, PIN verification, success and error states.
+- Mock API routes for campaigns, analytics, PIN delivery and PIN verification.
+- Vitest unit test and Playwright smoke test.
+- GitHub Actions CI workflow.
+
+**Tech stack:** Next.js, React, TypeScript, Tailwind CSS, Zustand, React Hook Form, Zod, Vitest, Playwright
+
+---
+
+### Developer Portfolio
+
+[Portfolio Website](https://axharfolio.live) presents my CV, skills, experience, projects and contact details in a responsive web interface.
+
+**Focus areas:** Frontend engineering, responsive design, personal branding, project presentation, CV download and recruiter-friendly structure.
+
+**Tech stack:** React, JavaScript, responsive CSS, deployment workflow
+
+---
+
+### Kids Learning App
+
+A React Native learning app concept focused on child-friendly UI, bilingual learning, simple games, sound/voice interactions and gamified practice.
+
+**Focus areas:** React Native, mobile UX, animations, local state, score tracking and playful learning flows.
+
+**Tech stack:** React Native, Expo, TypeScript, mobile UI
+
+---
+
+### Bootcamp Team Projects
+
+- [Redefine Web App](https://github.com/Andreas-Kalicani/Redefine): Client project built by a team of four during Wild Code School, using React, Node.js, Express and MongoDB.
+- [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): Full-stack travel budgeting app using React, Node.js, Express, MySQL and ExchangeRate API.
+- [MyBackpacking](https://github.com/Axhar85/My-Backpacking): Early HTML, CSS and JavaScript project focused on responsive layout and beginner frontend practice.
+- [Smart Mars Watch](https://github.com/manuel-marque/hackathon-smars-watch): Hackathon project built in 24 hours around a survival-support smartwatch concept.
+
+---
+
+## What I Work With
+
+**Frontend:** React, TypeScript, JavaScript, Next.js, Vue.js, Tailwind CSS, responsive UI  
+**Mobile:** React Native, Expo, mobile-first UX  
+**Backend:** Node.js, Express, PHP/Blade, REST APIs  
+**Data:** MySQL, MongoDB, mock APIs, analytics data  
+**Workflow:** Git, GitHub, GitLab, npm, Docker, AWS, CI basics  
+**Quality:** Production debugging, reusable components, form validation, testing, performance awareness
+
+---
+
+## Current Focus
+
+- Building stronger production-style portfolio projects.
+- Improving TypeScript and Next.js architecture.
+- Practicing testing with Vitest, React Testing Library and Playwright.
+- Connecting frontend work with business outcomes like conversion, performance and reliable subscription journeys.
+
+---
+
+## Contact
+
+- Email: [azhararshad_ntu@yahoo.com](mailto:azhararshad_ntu@yahoo.com)
+- LinkedIn: [linkedin.com/in/azhar-arshad](https://www.linkedin.com/in/azhar-arshad/)
+- Portfolio: [axharfolio.live](https://axharfolio.live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axhar85&show_icons=true&theme=github_dark" alt="Azhar GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axhar85&layout=compact&theme=github_dark" alt="Top languages" />
+</p>
