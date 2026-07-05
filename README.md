@@ -9,14 +9,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="42" height="42" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="42" height="42" alt="TypeScript" />
+  <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="42" height="42" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="42" height="42" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="42" height="42" alt="Vue.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="42" height="42" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="42" height="42" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="42" height="42" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="42" height="42" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="42" height="42" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="42" height="42" alt="MySQL" />
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" width="42" height="42" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" width="42" height="42" alt="GitLab" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="42" height="42" alt="Docker" />
+  <img src="https://img.icons8.com/dusk/50/000000/jira.png" width="42" height="42" alt="Jira" />
 </p>
 
 ---
