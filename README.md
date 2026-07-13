@@ -2,7 +2,7 @@
 <h3 align="center">Front-End / Full Stack Developer focused on React, TypeScript, Next.js and mobile-first product experiences</h3>
 
 <p align="center">
-  <a href="https://axharfolio.live">Portfolio</a> |
+  <a href="https://axharfolio.online">Portfolio</a> |
   <a href="https://www.linkedin.com/in/azhar-arshad/">LinkedIn</a> |
   <a href="mailto:azhararshad_ntu@yahoo.com">Email</a> |
   <a href="https://github.com/Axhar85">GitHub</a>
@@ -62,7 +62,7 @@ It allows teams to create, preview, manage and monitor digital campaigns with re
 
 ### Developer Portfolio
 
-[Portfolio Website](https://axharfolio.live) presents my CV, skills, experience, projects and contact details in a responsive web interface.
+[Portfolio Website](https://axharfolio.online) presents my CV, skills, experience, projects and contact details in a responsive web interface.
 
 **Focus areas:** Frontend engineering, responsive design, personal branding, project presentation, CV download and recruiter-friendly structure.
 
@@ -113,7 +113,7 @@ A React Native learning app concept focused on child-friendly UI, bilingual lear
 
 - Email: [azhararshad_ntu@yahoo.com](mailto:azhararshad_ntu@yahoo.com)
 - LinkedIn: [linkedin.com/in/azhar-arshad](https://www.linkedin.com/in/azhar-arshad/)
-- Portfolio: [axharfolio.live](https://axharfolio.live)
+- Portfolio: [axharfolio.live](https://axharfolio.online)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axhar85&show_icons=true&theme=github_dark" alt="Azhar GitHub stats" />
